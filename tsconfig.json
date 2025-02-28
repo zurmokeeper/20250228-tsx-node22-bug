@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "NodeNext",
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": true,
+      "forceConsistentCasingInFileNames": true,
+      "strict": true,
+      "alwaysStrict": false,
+      "skipLibCheck": true,
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "strictPropertyInitialization": false,
+      "allowJs": true,
+      "moduleResolution": "NodeNext",
+      "baseUrl": "./",
+      "sourceMap": true,
+      "removeComments": true,
+    },
+  }
+  
